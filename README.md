@@ -24,6 +24,12 @@ cd project-name-here
 code .
 ```
 
+Install packages:
+
+```bash
+npm install
+```
+
 Run the development server:
 
 ```bash
@@ -31,6 +37,8 @@ npm run dev
 # or
 yarn dev
 ```
+
+Remember to create your .env.local and copy the contents from sample.env into your new file. **Never** store any private credentials into sample.env
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
