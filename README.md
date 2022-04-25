@@ -5,6 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 -   [TailwindCSS](https://v2.tailwindcss.com/)
 -   [Prisma](https://www.prisma.io/)
 -   [UUID](https://www.npmjs.com/package/uuid)
+-   NextAuth
 
 ## Getting Started
 
